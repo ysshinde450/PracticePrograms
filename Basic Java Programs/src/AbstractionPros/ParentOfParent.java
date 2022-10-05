@@ -1,0 +1,15 @@
+package AbstractionPros;
+
+
+
+public abstract class ParentOfParent {
+	
+
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	}
+	
+	
+	
+}
