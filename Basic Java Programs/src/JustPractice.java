@@ -1,7 +1,7 @@
 public class JustPractice {
 	
 	static int m1(int c) {
-		
+		System.out.println("Hello");
 		return c;
 		
 	}
