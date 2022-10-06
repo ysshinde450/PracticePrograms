@@ -3,7 +3,7 @@ package practice;
 import java.util.Scanner;
 
 public class ArmstrongNumber {
-
+//added comment to check if reflects in git or not
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int a=scan.nextInt();
