@@ -20,7 +20,7 @@ public class ArmstrongNumber {
 			a=a/10;			
 		}
 		if(b==res)
-		System.out.println("This is armstrong number");
+			System.out.println("This is armstrong number");
 		else
 			System.out.println("This is not a armstrong number");
 	}
